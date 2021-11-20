@@ -11,7 +11,7 @@ const Blog = () => {
           A lot is happening, We are blogging about it.
         </h1>
       </div>
-      <div className="gtp3__blog-container">
+      <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
           <Article
             imgUrl={blog01}

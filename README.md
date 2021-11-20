@@ -43,8 +43,6 @@
 
 ### <u>Tablet View</u>
 
-<img src="./img/tablet.PNG" alt="tablet view" width="75%" />
-
 ### <u>Phone View</u>
 
 <img src="./img/phone.PNG" alt="phone view" width="75%" />

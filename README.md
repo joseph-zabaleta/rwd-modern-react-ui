@@ -1,7 +1,7 @@
 # Responsive Modern UI/UX Website
 
 > A React application that is responsive for different media queries using CSS  
-> Live Demo [_here_](https://vv-17.herokuapp.com/).
+> Live Demo [_here_](https://rwd-modern-react-ui.herokuapp.com/).
 
 ## Table of Contents
 

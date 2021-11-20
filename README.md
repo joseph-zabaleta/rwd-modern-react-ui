@@ -1,8 +1,57 @@
-# Getting Started with Create React App
+# Responsive Modern UI/UX Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A React application that is responsive for different media queries using CSS  
+> Live Demo [_here_](https://vv-17.herokuapp.com/).
 
-## Available Scripts
+## Table of Contents
+
+- [General Info](#general-info)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+
+## General Information
+
+- React Application made from scratch.
+- Showcase of Modern UI/UX
+- Showcase of Responsive Web Design
+
+## Technologies Used
+
+- react - version 17.0.2
+- react-icons - version 4.3.1
+
+## Features
+
+- Designed with Mobile in mind
+- Fundamentals of the CSS BEM Model
+- Able to handle the following media queries:
+  - 1920x1080 Desktop
+  - 768 x 1024 Tablet
+  - 375 x 812 Mobile Phone
+
+## Screenshots
+
+### <u>Desktop View</u>
+
+<img src="./img/desktop.PNG" alt="desktop view" width="75%" />
+
+### <u>Tablet View</u>
+
+<img src="./img/tablet.PNG" alt="tablet view" width="75%" />
+
+### <u>Phone View</u>
+
+<img src="./img/phone.PNG" alt="phone view" width="75%" />
+
+## Setup
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -29,42 +78,21 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+For educational and training purposes.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Project Status
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Project is: _complete_ and _no longer being worked on._\
+This was a single day project to practice CSS and responsive web design
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Room for Improvement
 
-## Learn More
+- Add more functionality to the call-to-actions(CTAs)
+- Possibly make website multi-page instead of scroll style
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Acknowledgements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- This project was inspired by Adrian Hajdin from JavaScript Mastery
+- [Adrian Hajdin's Github](https://github.com/adrianhajdin)
